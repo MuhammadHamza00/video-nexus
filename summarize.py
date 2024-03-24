@@ -1,8 +1,8 @@
 import google.generativeai as genai
 import os
 import markdown2
-
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "E:\Hackathons\gemini\gemini-hack-9393e3cc99fe.json"
+# json file link
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Jsonfile.json"
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel('gemini-pro')
