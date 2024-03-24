@@ -1,0 +1,50 @@
+.narrow-column {
+    flex: 0 0 30%; /* Adjust the width of the first column as needed */
+}
+
+/* Define the gradient */
+hr.gradient {
+    border: none; 
+    background-image: linear-gradient(to right, #0c0f38, #da16e6, #0c0f38); /* Gradient colors */
+    height: 3px; /* Height of the horizontal line */
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url("adds.jpg");
+}
+.icons{
+    margin: 5px;
+}
+#mainForm{
+    background-color: #0c0f38;
+}
+.pur-border{
+    border: 1px solid #0c0f38;
+
+}
+
+#mainForm input{
+    border: 1px solid #fff;
+    background-color: #0c0f38;
+    color: #fff;
+}
+#mainForm label{
+    color: #fff;
+}
+#mainForm #task{
+    border: 1px solid #fff;
+}
+#mainForm button{
+    background-color: #cf15da;
+    color: #fff;
+    border: none;
+}
+
+#queryForm button{
+    background-color: #cf15da;
+    color: #fff;
+    border: none;
+}
+#loader{
+    display: none;
+}
