@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-aai.settings.api_key = "92f5c6e52a224fe99d0b9b6a4c2d297e"
+aai.settings.api_key = "add your assemblyai key"
 
 UPLOAD_FOLDER = 'E:\\Hackathons\\gemini\\Files'
 
