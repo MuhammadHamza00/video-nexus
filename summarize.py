@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 import markdown2
 
-# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "E:\Hackathons\gemini\gemini-hack-9393e3cc99fe.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "E:\Hackathons\gemini\gemini-hack-9393e3cc99fe.json"
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel('gemini-pro')
