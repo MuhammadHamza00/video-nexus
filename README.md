@@ -6,15 +6,18 @@ Here's the content converted to markdown for your GitHub repo readme file:
 
 **Requirements:**
 
-* Gemini Secret Key ([https://developers.google.com/focus/ai-development](https://developers.google.com/focus/ai-development))
-* Assembly API Key ([https://www.assemblyai.com/docs/](https://www.assemblyai.com/docs/))
-* Google Application Credentials JSON File ([https://developers.google.com/workspace/guides/create-credentials](https://developers.google.com/workspace/guides/create-credentials))
+* Gemini Secret Key ([Get Google API](https://developers.google.com/focus/ai-development))
+* Assembly API Key ([Get AssemblyAI API](https://www.assemblyai.com/docs/))
+* Google Application Credentials JSON File ([Generate Json File With Key](https://developers.google.com/workspace/guides/create-credentials))
 
 **Installation:**
 
 ```bash
 pip install -r requirements.txt
 ```
+**Home Screen**
+
+![Frame Nexus Demo](readme img.png)
 
 **Project Introduction**
 
@@ -53,9 +56,9 @@ Frame Nexus tackles common video consumption challenges  such as:
 
 **Our Team:**
 
-* Muhammad Hamza ([https://www.linkedin.com/pub/dir/Muhammad/Hamza](https://www.linkedin.com/pub/dir/Muhammad/Hamza))
-* Tabinda Noor ([https://pk.linkedin.com/in/tabinda-noor-935429237](https://pk.linkedin.com/in/tabinda-noor-935429237))
-* Jahanzeb Khan ([https://www.linkedin.com/pub/dir/Jahanzeb/Khan](https://www.linkedin.com/pub/dir/Jahanzeb/Khan))
+* Muhammad Hamza ([Linkedin](https://www.linkedin.com/pub/dir/Muhammad/Hamza))
+* Tabinda Noor ([Linkedin](https://pk.linkedin.com/in/tabinda-noor-935429237))
+* Jahanzeb Khan ([Linkedin](https://www.linkedin.com/pub/dir/Jahanzeb/Khan))
 * Umama Nasir Abbasi
 
 **Contribution:**
