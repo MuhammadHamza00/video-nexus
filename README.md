@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 **Home Screen**
 
-![Frame Nexus Demo](readme img.png)
+![Frame Nexus Demo](demo.png)
 
 **Project Introduction**
 
