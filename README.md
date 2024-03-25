@@ -56,9 +56,9 @@ Frame Nexus tackles common video consumption challenges  such as:
 
 **Our Team:**
 
-* Muhammad Hamza ([Linkedin](https://www.linkedin.com/pub/dir/Muhammad/Hamza))
-* Tabinda Noor ([Linkedin](https://pk.linkedin.com/in/tabinda-noor-935429237))
-* Jahanzeb Khan ([Linkedin](https://www.linkedin.com/pub/dir/Jahanzeb/Khan))
+* Muhammad Hamza [Linkedin](https://www.linkedin.com/pub/dir/Muhammad/Hamza)
+* Tabinda Noor [Linkedin](https://pk.linkedin.com/in/tabinda-noor-935429237)
+* Jahanzeb Khan [Linkedin](https://www.linkedin.com/pub/dir/Jahanzeb/Khan)
 * Umama Nasir Abbasi
 
 **Contribution:**
